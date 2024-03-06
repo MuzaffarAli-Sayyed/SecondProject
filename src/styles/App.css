@@ -1,0 +1,11 @@
+.{
+    margin: 0%;
+    padding: 0%;
+    background-color: aqua;
+}
+
+nav {
+    background-color: antiquewhite;
+    box-shadow: 0 0 10px red(0,0,-,0.2);
+    padding: 3rem;
+}
